@@ -2,7 +2,7 @@ const Data = () => {
   return (
     <div className="home__data">
         <h1 className="home__title">
-            ISHAL
+            NOLLA
             <svg
                 width="36"
                 height="36"
@@ -54,10 +54,10 @@ const Data = () => {
             </svg>
         </h1>
         <h3 className="home__subtitle">
-            Fullstack Develop
+            Fullstack Developer
         </h3>
         <p className="home__description">
-            Fullstack developer dedicated to design and creative solutions.
+        I am a FULLSTACK DEVELOPER who tries to find opportunities to earn money, so that in the future with these results can help others.
         </p>
 
         <a href="#contact" className="button button--flex">
